@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: .
 -->
-![Snake animation](https://github.com/clarafp8/clarafp8/blob/output/github-contribution-grid-snake.svg)
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
